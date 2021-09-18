@@ -15,5 +15,5 @@ Como programador Full Stack tengo manejo de las tecnologías React, Redux, JavaS
 
 ##### ¿Quieres saber mas?
 ###### Correo: abadalejandro@outlook.com
-###### Linkedin:
+###### Linkedin: www.linkedin.com/in/alejandro-abad-761ba0212
 ###### Teléfono: +393923625780
