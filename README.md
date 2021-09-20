@@ -10,7 +10,7 @@ Que puedo aportar?🎯
 
 Como programador Full Stack tengo manejo de las tecnologías React, Redux, JavaScript, Typescript, EcmaScript6, HTML5, CSS, Express, Sequelize, PostgreSQL y Node.js, con ellas puedo encontrar soluciones ágiles y acertadas a todos los problemas o requerimientos competentes. Me gusta trabajar en equipo, soy paciente, colaborativo y flexible.
 
-![Imagen de presentacion]()
+<!-- ![Imagen de presentacion]() -->
 
 
 ##### ¿Quieres saber mas?
