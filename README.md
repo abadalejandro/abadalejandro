@@ -1,4 +1,5 @@
 Hola, soy Alejandro Abad.
+
 Después de varios años como técnico y administrador de redes y gracias a haber superado 
 con éxito el bootcamp de Soy Henry (800 horas),
 pude cristalizar mi pasión por la programación convirtiéndome en fullstack developer.
