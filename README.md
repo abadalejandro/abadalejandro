@@ -72,7 +72,7 @@ Implementation of the offer system.
  -Task list made with React, Typescript, Redux, custom hooks, CSS and Bootstrap 5.0.
 
 <p align='center'>     
-   <a align='center' href=https://abadalejandro.github.io/todolist">      
+   <a align='center' href="https://abadalejandro.github.io/todolist">      
       <img src="./todolistHomeScreenShort.png" alt="Todolist"   width="50%">  
     </a>
 </p>
