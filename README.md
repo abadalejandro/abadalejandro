@@ -83,7 +83,7 @@ Implementation of the offer system.
  -One of my first applications made with ReactJs, Redux, Fetch and Bootstrap 5.
 
 <p align='center'>     
-   <a align='center' href=https://abadalejandro.github.io/movieland">      
+   <a align='center' href="https://abadalejandro.github.io/movieland">      
       <img src="./movielandXLok.png" alt="Movieland"   width="50%">  
     </a>
 </p>                                                                                  
