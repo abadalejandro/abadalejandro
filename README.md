@@ -3,7 +3,9 @@ After several years as a technician and network administrator and thanks to havi
 
 My objective is to join a remote development team in which to learn and grow, participating in a project in which I can add value, face new challenges and experiences.
 
-What can I contribute? 🎯
+<br/>
+
+### What can I contribute? 🎯
 
 As a Full Stack programmer I have management of React, Redux, JavaScript, Typescript, EcmaScript6, HTML5, CSS, Express, Sequelize, PostgreSQL and Node.js technologies, with them I can find agile and successful solutions to all problems or competent requirements. I like to work in a team, I am patient, collaborative and flexible.
 
