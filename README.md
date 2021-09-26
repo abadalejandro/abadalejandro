@@ -78,7 +78,7 @@ Implementation of the offer system.
 </p>
                                                                                   
                                                                                   
-#### Movieland
+<!-- #### Movieland
 
  -One of my first applications made with ReactJs, Redux, Fetch and Bootstrap 5.
 
@@ -87,7 +87,7 @@ Implementation of the offer system.
       <img src="./movielandXLok.png" alt="Movieland"   width="50%">  
     </a>
 </p>                                                                                  
-
+ -->
 
 
 
