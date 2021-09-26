@@ -1,21 +1,18 @@
-Hola, soy Alejandro Abad.
+## Hello, I am Alejandro Abad.
+After several years as a technician and network administrator and thanks to having successfully passed the Soy Henry bootcamp (800 hours), I was able to crystallize my passion for programming by becoming a fullstack developer. Because willpower and passion for a dream are stronger than time and adversity, I am the proof that when you want, you can.
 
-Después de varios años como técnico y administrador de redes y gracias a haber superado 
-con éxito el bootcamp de Soy Henry (800 horas),
-pude cristalizar mi pasión por la programación convirtiéndome en fullstack developer.
-Porque la fuerza de voluntad y la pasión por un sueño son más fuertes que el tiempo y la adversidad,
-soy la demostración de que cuando se quiere, se puede.
+My objective is to join a remote development team in which to learn and grow, participating in a project in which I can add value, face new challenges and experiences.
 
-Tengo como objetivo sumarme a un equipo de desarrollo en remoto en el cual aprender y crecer, participando de un proyecto en el que pueda aportar valor, enfrentar nuevos desafíos y experiencias.
+What can I contribute? 🎯
 
-Que puedo aportar?🎯
+As a Full Stack programmer I have management of React, Redux, JavaScript, Typescript, EcmaScript6, HTML5, CSS, Express, Sequelize, PostgreSQL and Node.js technologies, with them I can find agile and successful solutions to all problems or competent requirements. I like to work in a team, I am patient, collaborative and flexible.
 
-Como programador Full Stack tengo manejo de las tecnologías React, Redux, JavaScript, Typescript, EcmaScript6, HTML5, CSS, Express, Sequelize, PostgreSQL y Node.js, con ellas puedo encontrar soluciones ágiles y acertadas a todos los problemas o requerimientos competentes. Me gusta trabajar en equipo, soy paciente, colaborativo y flexible.
+<br />
 
 <!-- ![Imagen de presentacion]() -->
 
 
-##### ¿Quieres saber mas?
-###### Correo: abadalejandro@outlook.com
+### Contact me:
+###### Email: abadalejandro@outlook.com
 ###### Linkedin: www.linkedin.com/in/alejandro-abad-developer
-###### Teléfono: +393923625780
+###### Phone: +393923625780
