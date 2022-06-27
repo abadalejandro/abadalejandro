@@ -17,7 +17,7 @@ As a Full Stack programmer I have management of React, Redux, JavaScript, Typesc
 ### Contact me:
 ###### Email: abadalejandro@outlook.com
 ###### Linkedin: www.linkedin.com/in/alejandro-abad-developer
-###### Phone: +393923625780
+
 
 
 ### Projects:
